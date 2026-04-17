@@ -1,0 +1,9 @@
+DOC_ID,passage,para,filename,page,display,highlight
+1,"The Japanese particle は (wa) is used to mark the topic of a sentence. It shows what the sentence is about.","1","japanese_grammar","1","は marks the topic","は"
+2,"The particle が (ga) is used to mark the subject of a sentence, especially when introducing new information.","2","japanese_grammar","1","が marks the subject","が"
+3,"The particle を (wo) indicates the direct object of a verb in Japanese.","3","japanese_grammar","1","を marks the object","を"
+4,"The particle に (ni) is used to indicate direction, time, or indirect objects.","4","japanese_grammar","1","に indicates time/place","に"
+5,"The particle で (de) indicates the place where an action occurs or the means by which something is done.","5","japanese_grammar","1","で indicates location of action","で"
+6,"The て-form of verbs is used to connect actions or to make requests in Japanese.","6","japanese_grammar","2","て-form connects verbs","て"
+7,"The plain form of a verb is used in casual speech and subordinate clauses.","7","japanese_grammar","2","plain form usage","plain form"
+8,"The polite form of verbs ends with ます and is used in formal situations.","8","japanese_grammar","2","ます form","ます"

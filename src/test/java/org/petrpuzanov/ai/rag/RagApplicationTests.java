@@ -1,11 +1,10 @@
-package org.petrpuzanov.ai.grammar.rag;
+package org.petrpuzanov.ai.rag;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
-
+class RagApplicationTests {
 
 	@Test
 	void contextLoads() {
